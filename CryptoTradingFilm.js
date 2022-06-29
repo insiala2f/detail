@@ -1,4 +1,5 @@
 var dataUrl = [
+'https://wavermerchandiseweird.com/rmdh7vzvs?key=ed9adfc3b8491179ad53c3e027d8b8a9',
 '//cryptominingdoge.blogspot.com/',
 '//cryptominingfilm.blogspot.com/',
 '//wavermerchandiseweird.com/tuf9tdkp?key=6729f99d594d33885cec1eb3981e92ac',
